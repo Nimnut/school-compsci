@@ -8,4 +8,4 @@
 
 <b>Modules needed: 6<b/>
 
-<b>Modules left<b/>
+<b>Modules left: 2<b/>
