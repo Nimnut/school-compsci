@@ -6,6 +6,9 @@
 
 <h2>Progress</h2>
 
+![image](https://github.com/user-attachments/assets/4201ac21-ee61-48cf-a112-ce1e312dabcf)
+
+
 <b>Modules I want to do: 4<b/>
   
 <b>Modules done: 4</b>
