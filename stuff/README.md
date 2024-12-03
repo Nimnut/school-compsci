@@ -1,6 +1,5 @@
 <h1>Hello</h1>
-![title](Images/[example.png](https://i.pinimg.com/736x/4c/12/96/4c12968f8b216a2a87425c7f81248176.jpg))
-
+![alt text]([http://url/to/img.png](https://i.pinimg.com/736x/4c/12/96/4c12968f8b216a2a87425c7f81248176.jpg)
 <h2>Progress</h2>
 
 <b>Modules I want to do: 4<b/>
