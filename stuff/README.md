@@ -1,6 +1,7 @@
 <h1>Hello!</h1>
 
-<p align="center">![image](https://github.com/user-attachments/assets/6bb213c0-1d39-41d9-9b1c-4f4459a6fd49)
+<p align="center">
+  <imgsrc="![image](https://github.com/user-attachments/assets/6bb213c0-1d39-41d9-9b1c-4f4459a6fd49)">
 </p>
 
 <h2>Progress</h2>
