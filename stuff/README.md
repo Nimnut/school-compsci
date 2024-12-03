@@ -1,6 +1,6 @@
 <h1>Hello!</h1>
 
-![image](https://github.com/user-attachments/assets/d94baf67-3a1d-4976-aa09-b3dd87ec4d40)
+<center>![image](https://github.com/user-attachments/assets/d94baf67-3a1d-4976-aa09-b3dd87ec4d40)</center>
 
 <h2>Progress</h2>
 
