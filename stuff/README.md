@@ -1,8 +1,7 @@
 <h1>Hello!</h1>
 
 <p align="center">
-  <imgsrc="![image](https://github.com/user-attachments/assets/5093b28d-f736-457f-8030-9444d2d8b3d3)
-">
+  <imgsrc="https://i.pinimg.com/736x/4c/12/96/4c12968f8b216a2a87425c7f81248176.jpg">
 </p>
 
 <h2>Progress</h2>
