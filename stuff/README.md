@@ -3,7 +3,7 @@
 
 <h2>My progress so far...v</h2>
 
-![image](https://github.com/user-attachments/assets/4201ac21-ee61-48cf-a112-ce1e312dabcf)
+<img src="https://i.pinimg.com/736x/4c/12/96/4c12968f8b216a2a87425c7f81248176.jpg" width='200'>
 
 
 <b>Modules I want to do: 4<b/>
