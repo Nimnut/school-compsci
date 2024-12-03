@@ -1,5 +1,5 @@
-<h1>Hello!<img src="https://i.pinimg.com/736x/4c/12/96/4c12968f8b216a2a87425c7f81248176.jpg" width='200'></h1> 
-
+<h1>Hello!</h1> 
+<img src="https://i.pinimg.com/736x/4c/12/96/4c12968f8b216a2a87425c7f81248176.jpg" width='200'>
 
 <h2>Progress</h2>
 
