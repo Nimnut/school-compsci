@@ -1,14 +1,14 @@
 body {
-    background-color: royalblue;
+    background-color: rgb(230, 171, 186);
     font-family: Arial, Helvetica, sans-serif;
   }
   
   h1 {
-    color: #0000F0;
+    color: #000000;
   }
 
   p {
-    color: yellow;
+    color: rgb(0, 0, 0);
   }
 
   
