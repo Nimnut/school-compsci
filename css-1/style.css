@@ -1,4 +1,9 @@
-table, th, td {
-   color: rgb(255, 255, 255);
-    border: 1px solid;
+
+table {
+   border:1px solid black;
+   padding: 10px;
+}
+th, td{
+   border:1px solid black;
+   padding: 20px;
 }
