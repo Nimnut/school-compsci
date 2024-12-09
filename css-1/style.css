@@ -1,50 +1,43 @@
 
 <style type="text/css">
-@font-face {
+  @font-face {
     font-family: "Helvetica";
-    src: url(file:///home/facey/Downloads/helvetica/Helvetica%20Roman.ttf) format("truetype");
-}
-p.customfont { 
-    font-family: "Helvetica", Verdana, Tahoma;
-}
-</style>
-<p class="Helvetica">Hello world!</p>
+    src: url("file:///home/facey/Downloads/helvetica/Helvetica%20Roman.ttf") format("truetype");
+  }
 
-body {
+  body {
     background-color: rgb(230, 171, 186);
-    font-family:'Helvetica';
+    font-family: 'Helvetica', Arial, sans-serif;
   }
-  
+
+  h1, h2, h3 {
+    color: #000000;
+  }
+
   h1 {
-    color: #000000;
-    font-family:'Helvetica'
-  } 
-  
-  h2 {
-    color: #000000;
-    font-family:'Arial Narrow'
-  } 
-  
-  h3 {
-    color: #000000;
-    font-family:'Arial Narrow'
+    font-family: 'Helvetica', Arial, sans-serif;
   }
-  
-  
+
+  h2, h3 {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+  }
+
   p {
     color: rgb(0, 0, 0);
     font-family: Arial, sans-serif;
   }
-table {
-    color: #000000;
-    font-family:'Helvetica'
+
+  table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
   }
 
-table {
-   border:1px solid black;
-   padding: 10px;
-}
-th, td{
-   border:1px solid black;
-   padding: 20px;
-}
+  th, td {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: left;
+  }
+</style>
+
+<p class="customfont">Hello world!</p>
