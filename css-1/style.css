@@ -10,6 +10,36 @@ p.customfont {
 </style>
 <p class="Helvetica">Hello world!</p>
 
+body {
+    background-color: rgb(230, 171, 186);
+    font-family:'Helvetica';
+  }
+  
+  h1 {
+    color: #000000;
+    font-family:'Helvetica'
+  } 
+  
+  h2 {
+    color: #000000;
+    font-family:'Arial Narrow'
+  } 
+  
+  h3 {
+    color: #000000;
+    font-family:'Arial Narrow'
+  }
+  
+  
+  p {
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+  }
+table {
+    color: #000000;
+    font-family:'Helvetica'
+  }
+
 table {
    border:1px solid black;
    padding: 10px;
