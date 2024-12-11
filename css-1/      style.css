@@ -121,3 +121,8 @@ table th {
 table tr:nth-child(even) {
   background-color: #FDEDEC;
 }
+
+ol {
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
